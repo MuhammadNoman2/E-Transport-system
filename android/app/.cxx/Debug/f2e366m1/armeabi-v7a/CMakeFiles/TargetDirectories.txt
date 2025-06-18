@@ -1,0 +1,2 @@
+/Users/macbookpro/Desktop/Mohsib/E-Transport /android/app/.cxx/Debug/f2e366m1/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/macbookpro/Desktop/Mohsib/E-Transport /android/app/.cxx/Debug/f2e366m1/armeabi-v7a/CMakeFiles/rebuild_cache.dir
